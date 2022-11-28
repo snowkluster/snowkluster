@@ -1,5 +1,5 @@
                                                                                                 
-<h1 align="center">Hi , I'm Kaushik</h1>
+<h1 align="center">Hi 👋, I'm Kaushik</h1>
 <h3 align="center">I'm a Security Engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/snow-kluster](https://github.com/snow-kluster)
