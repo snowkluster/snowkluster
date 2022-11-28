@@ -2,9 +2,16 @@
 <h1 align="center">Hi, I'm Kaushik</h1>
 <h3 align="center">I'm a Security Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snow-kluster&label=Profile%20views&color=0e75b6&style=flat" alt="snow-kluster" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-kluster" alt="snow-kluster" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/snow-kluster](https://github.com/snow-kluster)
 
 - 📝 I regularly do writeup on [https://snow-kluster.github.io/](https://snow-kluster.github.io/)
+
+- 🌱 I’m currently learning **Malware Development**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
