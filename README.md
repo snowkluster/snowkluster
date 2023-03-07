@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-kluster&theme=darkhub" alt="snow-kluster" /></a> </p>
 
-- 📝 I regularly do writeup on [https://snow-kluster.github.io/](https://snow-kluster.github.io/)
+- 📝 I regularly do writeup on [SnowKluster](https://snow-kluster.github.io/)
 
 - 🌱 I’m currently learning **Malware Development**
 
