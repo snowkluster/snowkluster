@@ -1,9 +1,9 @@
                                                                                                 
 <h1 align="center">Hi, I'm Kaushik</h1>
-
+<h3 align="center"> Part-time Bug Bounty Hunter || Full time Security Nerd </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snow-kluster&label=Profile%20views&color=0e75b6&style=flat-square" alt="snow-kluster" /> </p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=snowkluster)](https://holopin.io/@snowkluster)
+<p><img src="tumblr_b3a09aa7e23a1d0955693154b5244bd2_86324062_1280.png" alt="broken_computer" /></p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-kluster&title=Stars,Commits,MultiLanguage,PullRequest,Issues,Repositories&theme=darkhub" alt="snow-kluster" /></a> </p>
  
