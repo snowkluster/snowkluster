@@ -1,18 +1,8 @@
                                                                                                 
 <h1 align="center">Hi, I'm Kaushik</h1>
 <h3 align="center"> Part-time Bug Bounty Hunter || Full time Security Nerd </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snow-kluster&label=Profile%20views&color=0e75b6&style=flat-square" alt="snow-kluster" /> </p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/kronosnull.png" alt="TryHackMe">
 
-![image](https://github.com/snow-kluster/snow-kluster/assets/100234814/f1c08477-7c72-4d8a-9597-98b108f9bb9c)
-
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snow-kluster&title=Stars,Commits,MultiLanguage,PullRequest,Issues,Repositories&theme=darkhub" alt="snow-kluster" /></a> </p>
- 
-
-- 📝 I regularly do writeup on [SnowKluster](https://snow-kluster.github.io/)
-
-- 🌱 I’m currently learning **Web Application Security**
-  
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
