@@ -1,6 +1,6 @@
                                                                                                 
 <h1 align="center">Hi, I'm Kaushik</h1>
-<h3 align="center"> Part-time Bug Bounty Hunter || Full time Security Nerd </h3>
+<h3 align="center"> Bug Bounty Hunter || Penetration Tester </h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/kronosnull.png" alt="TryHackMe">
 
  
