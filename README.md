@@ -1,9 +1,4 @@
-                                                                                                
-<h1 align="center">Hi, I'm Kaushik</h1>
-<h3 align="center"> Backend Developer || Penetration Tester </h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/kronosnull.png" alt="TryHackMe">
 
- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohan-kaushik-a92907232" target="blank"><img align="center" src="linkedin.svg" alt="rohan-kaushik-a92907232" height="30" width="40" /></a><a href="https://hackerone.com/xero02?type=user" target="blank"><img align="center" src="hackerone.svg" alt="rohankaushik1" height="30" width="40" /></a>
