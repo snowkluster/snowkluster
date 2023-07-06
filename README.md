@@ -1,7 +1,7 @@
                                                                                                 
 <h1 align="center">Hi, I'm Kaushik</h1>
 <h3 align="center"> Backend Developer || Penetration Tester </h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/kronosnull.png" alt="TryHackMe">
+
 
  
 <h3 align="left">Connect with me:</h3>
