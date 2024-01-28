@@ -1,5 +1,5 @@
 ```
-"Hi, I'm Kaushik."
+Hi, I'm Kaushik.
 ```
 
 - 🔭 I’m currently studying *Web Application Security*
