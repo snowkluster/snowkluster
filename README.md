@@ -1,3 +1,24 @@
+```yaml
+Hi, I'm Kaushik.
+```
+
+- 🔭 I’m currently studying *Web Application Security*
+- 🌱 I’m currently learning `Django` and `Go`
+- ⚡ 2024 goals - improve my study culture and learn time management (among other things)
+- 🗒️ here is [my blog](https://snowkluster.github.io/)
+
+
+### Languages and Tools:
+```yaml
+Languages: Python, C, C++, Bash, Go
+Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
+Web Development: Flask, Django, React, Express
+  
+OS: Mint
+Editors: Vim, Neovim
+```
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
