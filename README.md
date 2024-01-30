@@ -10,11 +10,11 @@ Hi, I'm Kaushik.
 
 ### Languages and Tools:
 ```yaml
-Languages: Python, C, C++, Bash, Go
+Languages: Python, C, C++, Bash, Go, x86 Assembly
 Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
 Web Development: Flask, Django, React, Express
   
-OS: Mint
+OS: Linux Mint
 Editors: Vim, Neovim
 ```
 
