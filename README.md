@@ -1,6 +1,7 @@
-```
-Hi, I'm Kaushik.
-```
+
+# Hi there, I'm Rohan.
+
+## About Me 
 
 - 🔭 I’m currently studying *Web Application Security*
 - 🌱 I’m currently learning `Django` and `Go`
@@ -17,7 +18,7 @@ Web Development: Flask, Django, React, Express
 OS: Linux Mint
 Editors: Vim, Neovim
 ```
-
+[![My Skills](https://skillicons.dev/icons?i=ts,express,django,docker,nodejs,neovim,bash,c,linux,python,go)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
