@@ -2,7 +2,7 @@
 # Hi there, I'm Rohan.
 
 ## About Me 
-
+<img width="55%" align="right" alt="Github" src="assets/header.svg" />
 - 🔭 I’m currently studying *Web Application Security*
 - 🌱 I’m currently learning `Django` and `Go`
 - ⚡ 2024 goals - improve my study culture and learn time management (among other things)
