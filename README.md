@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning `Django` and `Go`
 - ⚡ 2024 goals - improve my study culture
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
-- Neovim and Linux enjoyer 
+- 🐧 Neovim and Linux enjoyer 
 <br>
 
 
-### Languages and Tools:
+## Languages and Tools:
 ```yaml
 Languages: Python, C, C++, Bash, Go, x86 Assembly
 Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
@@ -25,7 +25,7 @@ Editors: Vim, Neovim
 [![My Skills](https://skillicons.dev/icons?i=ts,express,flask,django,docker,nodejs,neovim,bash,c,linux,python,go,git)](https://skillicons.dev)
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
    <a href="https://www.linkedin.com/in/rohan-kaushik1/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
