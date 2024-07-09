@@ -22,7 +22,7 @@ Web Development: Flask, React, Express
 OS: Linux Mint
 Editors: Vim, Neovim
 ```
-[![My Skills](https://skillicons.dev/icons?i=ts,express,flask,django,docker,nodejs,neovim,bash,c,linux,python,go,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,express,flask,fastapi,docker,nodejs,neovim,bash,c,linux,python,go,git)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
