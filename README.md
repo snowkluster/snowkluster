@@ -2,8 +2,6 @@
 # Hi there, I'm Rohan.
 
 ## About Me 
-<img width="55%" align="right" alt="Github" src="assets/header.svg" />
-
 
 - 🔭 I’m currently studying *Web Application Security*
 - 🌱 I’m currently learning *MERN Stack* and *Python*
