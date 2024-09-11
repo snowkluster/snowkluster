@@ -3,11 +3,10 @@
 
 ## About Me 
 
-- 🔭 I’m currently studying *Web Application Security*
-- 🌱 I’m currently learning *MERN Stack* and *Python*
-- ⚡ 2024 goals - improve my study culture
+- 🌱 I’m currently learning *AWS* and *Web Application Security*
+- ⚡ 2024 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
-- 🐧 Neovim and Linux enjoyer 
+- 💾 Working on Scraping the Cyber Crime Forums 
 <br>
 
 
@@ -16,6 +15,7 @@
 Languages: Python, C, C++, Bash, Go, x86 Assembly
 Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
 Web Development: Flask, React, Express
+Web Scraping: Requests, BeautifulSoup, Playwright 
   
 OS: Linux Mint
 Editors: Vim, Neovim
