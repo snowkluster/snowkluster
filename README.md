@@ -3,7 +3,7 @@
 
 ## About Me 
 
-- 🌱 I’m currently learning *AWS* and *Web Application Security*
+- 🌱 I’m currently learning *AWS* and *Rust*
 - ⚡ 2024 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
 - 💾 Working on Scraping the Cyber Crime Forums 
@@ -12,7 +12,7 @@
 
 ## Languages and Tools:
 ```yaml
-Languages: Python, C, C++, Bash, Go, x86 Assembly
+Languages: Python, Rust, C, Bash, Go 
 Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
 Web Development: Flask, React, Express
 Web Scraping: Requests, BeautifulSoup, Playwright 
