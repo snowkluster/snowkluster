@@ -3,7 +3,7 @@
 
 ## About Me 
 
-- 🌱 I’m currently learning *AWS* and *Rust*
+- 🌱 I’m currently learning *AWS* and *Go*
 - ⚡ 2024 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
 - 💾 Working on Scraping the Cyber Crime Forums 
