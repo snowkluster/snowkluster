@@ -7,8 +7,6 @@
 - ⚡ 2024 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
 - 💾 Working on Scraping the Cyber Crime Forums 
-<br>
-
 
 ## Languages and Tools:
 ```yaml
