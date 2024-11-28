@@ -10,7 +10,7 @@
 
 ## Languages and Tools:
 ```yaml
-Languages: Python, Rust, C, Bash, Go 
+Languages: Python, Node.js, C, Bash, Go 
 Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
 Web Development: Flask, React, Express
 Web Scraping: Requests, BeautifulSoup, Playwright 
