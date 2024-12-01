@@ -11,14 +11,14 @@
 ## Languages and Tools:
 ```yaml
 Languages: Python, Node.js, C, Bash, Go 
-Familiar Tools: GNU Makefiles, Cmake, BurpSuite, Qemu
+Familiar Tools: GNU Makefiles, BurpSuite, Qemu
 Web Development: Flask, React, Express
 Web Scraping: Requests, BeautifulSoup, Playwright 
   
 OS: Linux Mint
-Editors: Vim, Neovim
+Editors: Neovim
 ```
-[![My Skills](https://skillicons.dev/icons?i=ts,express,fastapi,docker,nodejs,bash,c,rust,linux,python,go,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,express,fastapi,docker,nodejs,bash,c,linux,python,go,git)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
