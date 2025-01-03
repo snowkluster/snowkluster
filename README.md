@@ -1,10 +1,7 @@
-
-# Hi there, I'm Rohan.
-
 ## About Me 
 
-- 🌱 I’m currently learning *AWS* and *Go*
-- ⚡ 2024 goals - Learn how not to blow money on AWS
+- 🌱 I’m currently learning *AWS* and GTK
+- ⚡ 2025 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
 - 💾 Working on Scraping the Cyber Crime Forums 
 
