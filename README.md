@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning *AWS* and GTK
 - ⚡ 2025 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
-- 💾 Working on Scraping the Cyber Crime Forums 
+- 💾 Working on Scraping Forums 
 
 ## Languages and Tools:
 ```yaml
-Languages: Python, Node.js, C, Bash, Go 
-Familiar Tools: GNU Makefiles, BurpSuite, Qemu
+Languages: Python, Go, C, Bash, Node.js 
+Familiar Tools: GNU Makefiles, Jenkins, Docker, Vagrant, 
 Web Development: Fast API, React, Express
 Web Scraping: Requests, BeautifulSoup, Playwright 
   
