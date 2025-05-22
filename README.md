@@ -1,14 +1,14 @@
 ## About Me 
 
-- 🌱 I’m currently learning *AWS* and GTK
-- ⚡ 2025 goals - Learn how not to blow money on AWS
+- 🌱 I’m currently learning *AWS* and *GTK*
+- ⚡  2025 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.github.io/)
-- 💾 Working on Scraping Forums 
+- 💾 Working on Crawling
 
 ## Languages and Tools:
 ```yaml
 Languages: Python, Go, C, Bash, Node.js 
-Familiar Tools: GNU Makefiles, Jenkins, Docker, Vagrant, 
+Familiar Tools: GNU Makefiles, Jenkins, Docker, Vagrant
 Web Development: Fast API, React, Express
 Web Scraping: Requests, BeautifulSoup, Playwright 
   
