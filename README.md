@@ -15,7 +15,7 @@ Web Scraping: Requests, BeautifulSoup, Playwright
 OS: Linux Mint
 Editors: Neovim
 ```
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,ts,nodejs,bash,c,linux,python,go,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,nodejs,bash,c,linux,python,go,git)](https://skillicons.dev)
 
 
 <h2 align="left">Connect with me:</h2>
