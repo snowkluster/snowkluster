@@ -1,11 +1,3 @@
-## About Me 
-
-- 🌱 I’m currently learning *AWS*
-- ⚡  2025 goals - Learn how not to blow money on AWS
-- 🗒️ here is [my blog](https://snowkluster.com/)
-- 💾 Working on Crawling
-
-## Languages and Tools:
 ```yaml
 Languages: Python, Go, C, Bash, Node.js 
 Familiar Tools: GNU Makefiles, Jenkins, Docker, Vagrant
