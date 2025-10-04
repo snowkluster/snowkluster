@@ -1,6 +1,6 @@
 ## About Me 
 
-- 🌱 I’m currently learning *AWS* and *GTK*
+- 🌱 I’m currently learning *AWS*
 - ⚡  2025 goals - Learn how not to blow money on AWS
 - 🗒️ here is [my blog](https://snowkluster.com/)
 - 💾 Working on Crawling
@@ -17,13 +17,6 @@ Editors: Neovim
 ```
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,ts,nodejs,bash,c,linux,python,go,git)](https://skillicons.dev)
 
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-   <a href="https://www.linkedin.com/in/rohan-kaushik1/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-   </a>
-</p>
 
 <!---
 snow-kluster/snow-kluster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
