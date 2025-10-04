@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning *AWS* and *GTK*
 - ⚡  2025 goals - Learn how not to blow money on AWS
-- 🗒️ here is [my blog](https://snowkluster.github.io/)
+- 🗒️ here is [my blog](https://snowkluster.com/)
 - 💾 Working on Crawling
 
 ## Languages and Tools:
